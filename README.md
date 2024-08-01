@@ -1,4 +1,4 @@
-# 📚 Actividades Calificativas - Desarrollo de Aplicaciones Móviles 📱
+# Actividades - Desarrollo de Aplicaciones Móviles 📱
 
 Bienvenido al repositorio de actividades calificativas para el curso de **Desarrollo de Aplicaciones Móviles**. Aquí encontrarás todas las actividades y proyectos evaluativos realizados a lo largo del semestre.
 
