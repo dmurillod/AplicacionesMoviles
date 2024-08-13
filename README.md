@@ -5,3 +5,4 @@ Bienvenido al repositorio de actividades calificativas para el curso de **Desarr
 ## 🚀 Contenido del Repositorio
 
 - **📁 Actividad 1**: Contiene una calculadora sencilla el cual permite calcular el precio final de una lista de productos.
+- **📁 Actividad 2**: Contiene una pequeña aplicación que consume una api llamada PokéAPI para mostrar información detallada de diferentes pokemones.
